@@ -26,5 +26,14 @@ I have designs and all needed codes that will need to be combined and updated to
 
 Finished upload finished app to AppStore and Playstore.
 
+Demo 003
+Bot needed to refresh page and click link 
+https://www.upwork.com/nx/jobs/search/details/~01d00db2f9370249b0?q=python&user_location_match=1&t=1&amount=0-99,100-499&from_recent_search=true&sort=recency&pageTitle=Job%20Detail&_navType=slider&_modalInfo=%5B%7B%22navType%22%3A%22slider%22,%22title%22%3A%22Job%20Detail%22,%22modalId%22%3A%221655490719004%22%7D%5D
+I'm in need of a simple python or similar language bot that will click a specified element on a webpage after refreshing the page at a given time interval. If possible, I'd also like to vary the time interval between page refreshes or be able to set a random time interval between a given maximum and minimum.
+
+For example, I'd like to refresh a page every 10 seconds and when the specified element is found, I want the bot to click on it instantly. After a delay of a second or two, I'd like the bot to resume page refreshes every 10 seconds. No GUI is necessary as I am familiar with editing scripts so I can change the values for time intervals between refreshes for instance to suit my needs
+
+
+
 
 
