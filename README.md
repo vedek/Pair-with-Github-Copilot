@@ -14,5 +14,17 @@ See example "diff(x**2 - 5, x)"
 
 Demo 002.
 
+Barcode reader Flutter app 
+https://www.upwork.com/nx/jobs/search/details/~019a1e6cb6a0e3355c?q=python&sort=recency&user_location_match=1&t=1&amount=0-99,100-499&page=2&pageTitle=Job%20Detail&_navType=slider&_modalInfo=%5B%7B%22navType%22%3A%22slider%22,%22title%22%3A%22Job%20Detail%22,%22modalId%22%3A%221655489962512%22%7D%5D
+
+Hello:
+
+Looking to expand a current app by adding a signup/login using firebase token based authentication, food barcode scanner, a history screen (can save scanner/camera results to history). Existing python program will be connected to app to process food data from camera and barcode.
+
+
+I have designs and all needed codes that will need to be combined and updated to create final app.
+
+Finished upload finished app to AppStore and Playstore.
+
 
 
