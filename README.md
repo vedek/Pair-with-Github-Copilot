@@ -43,10 +43,176 @@ Finished upload finished app to AppStore and Playstore.</p>
 <a href = "./upwork-demo004.py" > Link to Demo Python Code </a>
 
 
+<div>
+    <h2>
+        Demo 005: Web Developer needed for Rideshare App
+    </h2>
+    <a href="https://www.upwork.com/nx/jobs/search/details/~01866ee429607be712?q=java&sort=recency&user_location_match=1&t=1&amount=500-999&pageTitle=Job%20Detail&_navType=slider&_modalInfo=%5B%7B%22navType%22%3A%22slider%22,%22title%22%3A%22Job%20Detail%22,%22modalId%22%3A%221655584972837%22%7D%5D">
+        HTML Tutorial
+    </a>
+    <p>
+        Fully functioning website that collects users commuter 
+        information and stores in Database for route design. 
+        Website will be selling bookable products. 
+        Data Collected shall be pickup location,
+        drop off location, Morning Arrival time, 
+        Afternoon Pickup time.
+    </p>
+    <p>
+        <a href="Upwork Demo 006.js">
+            Link to JS Source Code
+        </a>
+    </p>
+</div>
+
 <!-- <h2>Demo 004</h2>
 <p> </p>
 <a href = ' '> Link to Upwork </a>
 <p> </p>-->
+
+<!-- <h2>Demo 004</h2>
+<p> </p>
+<a href = ' '> Link to Upwork </a>
+<p> </p>-->
+
+<!-- <h2>Demo 004</h2>
+<p> </p>
+<a href = ' '> Link to Upwork </a>
+<p> </p>-->
+
+<!-- <h2>Demo 004</h2>
+<p> </p>
+<a href = ' '> Link to Upwork </a>
+<p> </p>-->
+
+<!-- <h2>Demo 004</h2>
+<p> </p>
+<a href = ' '> Link to Upwork </a>
+<p> </p>-->
+
+<!-- <h2>Demo 004</h2>
+<p> </p>
+<a href = ' '> Link to Upwork </a>
+<p> </p>-->
+
+<!-- <h2>Demo 004</h2>
+<p> </p>
+<a href = ' '> Link to Upwork </a>
+<p> </p>-->
+
+<!-- <h2>Demo 004</h2>
+<p> </p>
+<a href = ' '> Link to Upwork </a>
+<p> </p>-->
+
+<!-- <h2>Demo 004</h2>
+<p> </p>
+<a href = ' '> Link to Upwork </a>
+<p> </p>-->
+
+<!-- <h2>Demo 004</h2>
+<p> </p>
+<a href = ' '> Link to Upwork </a>
+<p> </p>-->
+
+<!-- <h2>Demo 004</h2>
+<p> </p>
+<a href = ' '> Link to Upwork </a>
+<p> </p>-->
+
+<!-- <h2>Demo 004</h2>
+<p> </p>
+<a href = ' '> Link to Upwork </a>
+<p> </p>-->
+
+<!-- <h2>Demo 004</h2>
+<p> </p>
+<a href = ' '> Link to Upwork </a>
+<p> </p>-->
+
+<!-- <h2>Demo 004</h2>
+<p> </p>
+<a href = ' '> Link to Upwork </a>
+<p> </p>-->
+<!-- <h2>Demo 004</h2>
+<p> </p>
+<a href = ' '> Link to Upwork </a>
+<p> </p>-->
+
+<!-- <h2>Demo 004</h2>
+<p> </p>
+<a href = ' '> Link to Upwork </a>
+<p> </p>-->
+
+<!-- <h2>Demo 004</h2>
+<p> </p>
+<a href = ' '> Link to Upwork </a>
+<p> </p>-->
+
+<!-- <h2>Demo 004</h2>
+<p> </p>
+<a href = ' '> Link to Upwork </a>
+<p> </p>-->
+
+<!-- <h2>Demo 004</h2>
+<p> </p>
+<a href = ' '> Link to Upwork </a>
+<p> </p>-->
+
+<!-- <h2>Demo 004</h2>
+<p> </p>
+<a href = ' '> Link to Upwork </a>
+<p> </p>-->
+
+<!-- <h2>Demo 004</h2>
+<p> </p>
+<a href = ' '> Link to Upwork </a>
+<p> </p>-->
+<!-- <h2>Demo 004</h2>
+<p> </p>
+<a href = ' '> Link to Upwork </a>
+<p> </p>-->
+
+<!-- <h2>Demo 004</h2>
+<p> </p>
+<a href = ' '> Link to Upwork </a>
+<p> </p>-->
+
+<!-- <h2>Demo 004</h2>
+<p> </p>
+<a href = ' '> Link to Upwork </a>
+<p> </p>-->
+
+<!-- <h2>Demo 004</h2>
+<p> </p>
+<a href = ' '> Link to Upwork </a>
+<p> </p>-->
+
+<!-- <h2>Demo 004</h2>
+<p> </p>
+<a href = ' '> Link to Upwork </a>
+<p> </p>-->
+
+<!-- <h2>Demo 004</h2>
+<p> </p>
+<a href = ' '> Link to Upwork </a>
+<p> </p>-->
+
+<!-- <h2>Demo 004</h2>
+<p> </p>
+<a href = ' '> Link to Upwork </a>
+<p> </p>-->
+
+<!-- <h2>Demo 004</h2>
+<p> </p>
+<a href = ' '> Link to Upwork </a>
+<p> </p>-->
+
+<!-- <h2>Demo 004</h2>
+<p> </p>
+<a href = ' '> Link to Upwork </a>
+<p> </p>-->
+
 
 
 
