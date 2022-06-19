@@ -26,6 +26,7 @@ Looking to expand a current app by adding a signup/login using firebase token ba
 I have designs and all needed codes that will need to be combined and updated to create final app.
 
 Finished upload finished app to AppStore and Playstore.</p>
+<a href = "./Pair with Github CoPilot Demo 002.py" > Link to Demo Python Code </a>
 
 <h2>Demo 003</h2>
 <p>Bot needed to refresh page and click link </p>
@@ -33,11 +34,14 @@ Finished upload finished app to AppStore and Playstore.</p>
 <p>I'm in need of a simple python or similar language bot that will click a specified element on a webpage after refreshing the page at a given time interval. If possible, I'd also like to vary the time interval between page refreshes or be able to set a random time interval between a given maximum and minimum.</p>
 
 <p>For example, I'd like to refresh a page every 10 seconds and when the specified element is found, I want the bot to click on it instantly. After a delay of a second or two, I'd like the bot to resume page refreshes every 10 seconds. No GUI is necessary as I am familiar with editing scripts so I can change the values for time intervals between refreshes for instance to suit my needs</p>
+<a href = "./upwork-demo003.py" > Link to Demo Python Code </a>
 
 <h2>Demo 004</h2>
 <p>Full stack web developer </p>
 <a href = 'https://www.upwork.com/nx/jobs/search/details/~010b12d3d7d81308b1?q=python&sort=recency&user_location_match=1&t=1&amount=500-999&pageTitle=Job%20Detail&_navType=slider&_modalInfo=%5B%7B%22navType%22%3A%22slider%22,%22title%22%3A%22Job%20Detail%22,%22modalId%22%3A%221655513872001%22%7D%5D '> Link to Upwork </a>
 <p>Api to read a db file and run statistics on the files contents and display the statistics on a webpage(s) </p>
+<a href = "./upwork-demo004.py" > Link to Demo Python Code </a>
+
 
 <!-- <h2>Demo 004</h2>
 <p> </p>
