@@ -11,6 +11,7 @@ In each of these problems listed, taken from sites like Upwork, are partial or c
 <p>A good idea of what I want to do can be found at the following website: https://www.sympygamma.com/input/?i=x**2-5
 
 See example "diff(x**2 - 5, x)"</p>
+<a href = "./Pair with Github CoPilot Demo 001.py" > Link to Demo Python Code </a>  
 
 <h2>Demo 002.</h2>
 
