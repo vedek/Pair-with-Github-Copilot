@@ -46,10 +46,48 @@ Finished upload finished app to AppStore and Playstore.</p>
 
 <div>
     <h2>
+        Demo 005: Typescript based Quiz and Autocad Rivet Random BIM file validator.
+    </h2>
+    <a href="https://www.upwork.com/nx/jobs/search/details/~01866ee429607be712?q=java&sort=recency&user_location_match=1&t=1&amount=500-999&                pageTitle=Job%20Detail&_navType=slider&_modalInfo=%5B%7B%22navType%22%3A%22slider%22,%22title%22%3A%22Job%20Detail%22,%22modalId%22%3A              %221655584972837%22%7D%5D">
+        Upwork Link
+    </a>
+    <p>
+        A Demo of a webhook linked to a JS Quiz in Typescript used to market Food Plot Miyawaki Engineering for Permaculture for WIldlife, habitata         restoration and habitata defragmentataion.
+    </p>
+    <p>
+        <a href="https://vayuvaidya.weebly.com/miyawaki-landscaping-a-quiz.html">
+            Link to a Work in Progress.
+        </a>
+    </p>
+</div>
+<div>
+    <h2>
+        Demo 006: Web Developer needed for Rideshare App
+    </h2>
+    <a href="https://www.upwork.com/nx/jobs/search/details/~01866ee429607be712?q=java&sort=recency&user_location_match=1&t=1&amount=500-999&pageTitle=Job%20Detail&_navType=slider&_modalInfo=%5B%7B%22navType%22%3A%22slider%22,%22title%22%3A%22Job%20Detail%22,%22modalId%22%3A%221655584972837%22%7D%5D">
+        Upwork Link
+    </a>
+    <p>
+        Fully functioning website that collects users commuter 
+        information and stores in Database for route design. 
+        Website will be selling bookable products. 
+        Data Collected shall be pickup location,
+        drop off location, Morning Arrival time, 
+        Afternoon Pickup time.
+    </p>
+    <p>
+        <a href="Upwork Demo 006.js">
+            Link to JS Source Code
+        </a>
+    </p>
+</div>
+
+<div>
+    <h2>
         Demo 005: Web Developer needed for Rideshare App
     </h2>
     <a href="https://www.upwork.com/nx/jobs/search/details/~01866ee429607be712?q=java&sort=recency&user_location_match=1&t=1&amount=500-999&pageTitle=Job%20Detail&_navType=slider&_modalInfo=%5B%7B%22navType%22%3A%22slider%22,%22title%22%3A%22Job%20Detail%22,%22modalId%22%3A%221655584972837%22%7D%5D">
-        HTML Tutorial
+        Upwork Link
     </a>
     <p>
         Fully functioning website that collects users commuter 
