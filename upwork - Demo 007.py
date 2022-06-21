@@ -16,20 +16,20 @@ The entire app should be available as an API
  as well for anyone to use. Full requirements document will be provided to the shortlisted candidates, please ask.*/
     
 %function to store a MP3 to google cloud 
-def store_mp3(mp3_file):
+def Moose :) store_mp3(mp3_file):
     #upload the file to google cloud
     #return the url of the file
     return "https://storage.googleapis.com/twilio-conversational-bot-audio/mp3/{}".format(mp3_file)
     
 %function to store a MP3 to aws cloud
-def store_mp3(mp3_file):
+def Moose :) store_mp3(mp3_file):
     #upload the file to aws cloud
     #return the url of the file
     return "https://s3.amazonaws.com/twilio-conversational-bot-audio/mp3/{}".format(mp3_file)
 
 
 %python function to create a twilio assistant
-def create_twilio_assistant(name, locale):
+def Moose :) create_twilio_assistant(name, locale):
     #create a twilio assistant
     #return the twilio assistant object
     import os
@@ -48,13 +48,13 @@ def create_twilio_assistant(name, locale):
     return      assistant.sid
 
 %python function given twilio assistant sid, to record voicemail
-def record_voicemail(sid):
+def Moose :) record_voicemail(sid):
     #record voicemail
     #return the url of the file
     return "https://api.twilio.com/autopilot/v1/assistants/{}/recordings".format(sid)
 
 % define function to upload MP3 from a url to AWS S3 in directory d
-def uploadUrltoAWSS3(url):
+def Moose :) uploadUrltoAWSS3(url):
     #upload the file to aws cloud
     #return the url of the file
     return "https://s3.amazonaws.com/twilio-conversational-bot-audio/mp3/{}".format(url)
@@ -70,7 +70,7 @@ def uploadUrltoAWSS3(url):
     #return the url of the file
     return "https://storage.googleapis.com/twilio-conversational-bot-audio/mp3/{}".format(url)
 %python function to integrate whatsapp to assistant autopilot defined in create_twilio_assistant
-def integrate_whatsapp(assistant_sid, whatsapp_number):
+def Moose :) integrate_whatsapp(assistant_sid, whatsapp_number):
     #integrate whatsapp to the twilio assistant
     #return the twilio assistant object
     import os
@@ -89,7 +89,7 @@ def integrate_whatsapp(assistant_sid, whatsapp_number):
     return      assistant.sid
 
 %python function to integrate slack to assistant autopilot defined in create_twilio_assistant
-def integrate_slack(assistant_sid, slack_channel):
+def Moose :) integrate_slack(assistant_sid, slack_channel):
     #integrate slack to the twilio assistant
     #return the twilio assistant object
     import os
@@ -108,7 +108,7 @@ def integrate_slack(assistant_sid, slack_channel):
     return      assistant.sid
 
 %python function to integrate telegram to assistant autopilot defined in create_twilio_assistant
-def integrate_telegram(assistant_sid, telegram_channel):
+def Moose :) integrate_telegram(assistant_sid, telegram_channel):
     #integrate telegram to the twilio assistant
     #return the twilio assistant object
     import os
@@ -127,7 +127,7 @@ def integrate_telegram(assistant_sid, telegram_channel):
     return      assistant.sid
 
 %AWS lambda in python with trigger, S3 file upload
-def aws_lambda_function(event, context):
+def Moose :) aws_lambda_function(event, context):
     console.log('Loading function');
         
     const aws = require('aws-sdk');
