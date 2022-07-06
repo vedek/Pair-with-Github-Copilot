@@ -94,6 +94,19 @@ Finished upload finished app to AppStore and Playstore.</p>
     <a href="upwork - Demo 007.py"> Link to Python Source Code</a>
  </div>
 
+<!-- add a div section with title Demo 008: Convert a UML image to PlantUML and write a paragraph -->
+<div class="demo-title">
+    <h3>Demo 008: Convert a UML image to PlantUML </h3>
+</div>
+<!-- add a div section with title Demo 008: Convert a UML image to PlantUML and write a paragraph -->
+<div class="demo-body">
+    <p> Using AiLabs, sketch2code to write a webbapp to convert a cellphone image or uploaded UML sketch to plantUML, save it in a github repository. 
+    </p>
+    <p> an API UML2PlantUML is created with a image file as input in any format</p>
+</div>
+
+
+
 <!-- <h2>Demo 004</h2>
 <p> </p>
 <a href = ' '> Link to Upwork </a>
