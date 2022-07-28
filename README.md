@@ -58,7 +58,7 @@ Finished upload finished app to AppStore and Playstore.</p>
         <a href="https://vayuvaidya.weebly.com/miyawaki-landscaping-a-quiz.html">
             Link to a Work in Progress.
         </a>
-        <a href="https://vayuvaidya.weebly.com/miyawaki-landscaping-a-quiz.html" class="button big">Create Project</a>
+        <button href="https://vayuvaidya.weebly.com/miyawaki-landscaping-a-quiz.html" class="button big">Demo</button>
     </p>
 </div>
 <div>
