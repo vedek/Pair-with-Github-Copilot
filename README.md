@@ -59,9 +59,8 @@ Finished upload finished app to AppStore and Playstore.</p>
         <a href="https://vayuvaidya.weebly.com/miyawaki-landscaping-a-quiz.html">
             Link to a Work in Progress.
         </a>
-        [<img src=https://github.com/vedek/Pair-with-Github-Copilot/blob/main/images/button.png/>](href="https://vayuvaidya.weebly.com/miyawaki-                    landscaping-a-quiz.html")
-        [<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/user/repository/subscription)
-
+        #[![](https://github.com/vedek/Pair-with-Github-Copilot/blob/main/images/button.png)](href="https://vayuvaidya.weebly.com/miyawaki-                    landscaping-a-quiz.html")
+       
     </p>
 </div>
 <div>
