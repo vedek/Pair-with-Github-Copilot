@@ -59,7 +59,47 @@ Finished upload finished app to AppStore and Playstore.</p>
         <a href="https://vayuvaidya.weebly.com/miyawaki-landscaping-a-quiz.html">
             Link to a Work in Progress.
         </a>
-        <a href="https://vayuvaidya.weebly.com/miyawaki-landscaping-a-quiz.html" class="button pill">Demo (link)</a>
+        
+Asked 2 years, 2 months ago
+Modified 1 year, 11 months ago
+Viewed 11k times
+5
+1
+
+I want to add buttons to my markdown that, when pressed, let the viewer fork, star or watch a github repository.
+
+I already tried adding the html to my README.md, but it does not work.
+
+Especially
+
+<script async defer src="https://buttons.github.io/buttons.js></script>
+
+does not seem to work (it just displays the link)
+
+Is there a way to use Github Buttons (https://buttons.github.io) in a markdown (.md) file?
+
+Or are there other ways to inplement this?
+javascript
+html
+github
+markdown
+Share
+Follow
+edited May 12, 2020 at 15:25
+asked May 12, 2020 at 15:12
+user avatar
+finnmglas
+1,35044 gold badges1919 silver badges3232 bronze badges
+Add a comment
+2 Answers
+Sorted by:
+7
+
+If you created an image file with the button you could incorporate it directly in markdown.
+
+For example:
+
+[![](./images/button.png)](href="https://vayuvaidya.weebly.com/miyawaki-landscaping-a-quiz.html")]
     </p>
 </div>
 <div>
