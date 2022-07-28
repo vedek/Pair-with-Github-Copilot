@@ -1,5 +1,7 @@
 # Pair-with-Github-Copilot
 # ![BG Image](./images/paul-meckes-2l_pFjRUTgI-unsplash.jpg)
+.button
+{}
 <h2>Pairing with github copilot to test and improve copilot</h2>
 <p>Pairing with Github Copilot allows you to be an architect pairing with the copilot to code each sprint as you add the User Stories as comments.
 In each of these problems listed, taken from sites like Upwork, are partial or complete solutions to real live consultataion problems that beta test Github Copilot.</p>
@@ -58,7 +60,7 @@ Finished upload finished app to AppStore and Playstore.</p>
         <a href="https://vayuvaidya.weebly.com/miyawaki-landscaping-a-quiz.html">
             Link to a Work in Progress.
         </a>
-        <button href="https://vayuvaidya.weebly.com/miyawaki-landscaping-a-quiz.html" class="button big pill">Demo</button>
+        <button href="https://vayuvaidya.weebly.com/miyawaki-landscaping-a-quiz.html" class="button pill">Demo</button>
     </p>
 </div>
 <div>
