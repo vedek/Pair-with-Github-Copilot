@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Referendum dApp</title>
+    <script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
+</head>
+<body>
+    <h1>Referendum dApp</h1>
+
+    <div>
+        <h2>Proposals</h2>
+        <ul id="proposalList"></ul>
+    </div>
+
+    <div>
+        <h2>Vote</h2>
+        <input type="number" id="proposalIndex" placeholder="Proposal Index">
+        <button onclick="vote()">Vote</button>
+    </div>
+
+    <div>
+        <h2>Winning Proposal</h2>
+        <button onclick="getWinner()">Get Winner</button>
+        <p id="winnerName"></p>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
